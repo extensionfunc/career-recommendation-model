@@ -1,0 +1,1133 @@
+ {
+  "job_fields": [
+    {
+      "field_name": "Information Technology (IT) and Computer Science",
+      "job_examples": [
+        {
+          "job_title": "Software Developer",
+          "work_field_scope": "Designs, codes, tests, and maintains software programs.",
+          "skills": [
+            "Programming languages (e.g., Java, Python, C++)",
+            "Problem-solving and algorithmic skills",
+            "Knowledge of software development methodologies"
+          ],
+          "requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "Relevant work experience may be required"
+          ]
+        },
+        {
+          "job_title": "Network Administrator",
+          "work_field_scope": "Manages and maintains an organization's computer networks.",
+          "skills": [
+            "Networking protocols and technologies",
+            "Troubleshooting and problem-solving skills",
+            "Security fundamentals"
+          ],
+          "requirements": [
+            "Bachelor's degree in IT or related field",
+            "Relevant certifications (e.g., CCNA) may be required"
+          ]
+        },
+        {
+          "job_title": "Data Scientist",
+          "work_field_scope": "Analyzes and interprets complex data sets to inform business decision-making.",
+          "skills": [
+            "Statistics and data analysis skills",
+            "Programming languages (e.g., Python, R)",
+            "Machine learning and data visualization expertise"
+          ],
+          "requirements": [
+            "Master's degree in Data Science or related field",
+            "Experience with data analysis tools and frameworks"
+          ]
+        },
+        {
+          "job_title": "Cybersecurity Analyst",
+          "work_field_scope": "Protects computer systems and networks from cyber threats.",
+          "skills": [
+            "Knowledge of cybersecurity principles",
+            "Security tools and technologies",
+            "Incident response and risk management"
+          ],
+          "requirements": [
+            "Bachelor's degree in Cybersecurity or related field",
+            "Relevant certifications (e.g., CISSP, CompTIA Security+)"
+          ]
+        },
+        {
+          "job_title": "IT Project Manager",
+          "work_field_scope": "Oversees and manages IT projects from initiation to completion.",
+          "skills": [
+            "Project management methodologies",
+            "Communication and leadership skills",
+            "Risk assessment and mitigation"
+          ],
+          "requirements": [
+            "Bachelor's or Master's degree in IT or Project Management",
+            "Project management certification (e.g., PMP) may be required"
+          ]
+        },
+        {
+          "job_title": "Database Administrator",
+          "work_field_scope": "Manages and maintains databases to ensure data integrity and availability.",
+          "skills": [
+            "Database management systems (e.g., MySQL, Oracle)",
+            "SQL and database design",
+            "Backup and recovery processes"
+          ],
+          "requirements": [
+            "Bachelor's degree in IT or related field",
+            "Relevant certifications (e.g., Oracle Certified Professional)"
+          ]
+        },
+        {
+          "job_title": "Machine Learning Engineer",
+          "work_field_scope": "Designs and develops machine learning models for various applications.",
+          "skills": [
+            "Machine learning algorithms and frameworks",
+            "Programming languages (e.g., Python, TensorFlow)",
+            "Data preprocessing and feature engineering"
+          ],
+          "requirements": [
+            "Master's degree in Computer Science or related field",
+            "Experience in machine learning projects"
+          ]
+        },
+        {
+          "job_title": "IT Consultant",
+          "work_field_scope": "Provides expert advice on IT strategy, implementation, and optimization.",
+          "skills": [
+            "Knowledge of IT systems and technologies",
+            "Analytical and problem-solving skills",
+            "Client communication and consulting"
+          ],
+          "requirements": [
+            "Bachelor's or Master's degree in IT or related field",
+            "Relevant consulting experience"
+          ]
+        },
+        {
+          "job_title": "Android Developer",
+          "work_field_scope": "Design and build the next generation of applications running on the Android platform.",
+          "skills": [
+            "Collaborate with cross-functional teams to define, design, and ship new features",
+            "Skills in programming languages such as Java and Kotlin",
+            "Ability to design User Interface (UI/UX)",
+            "Ability to analyze problems and develop effective solutions"
+          ],
+          "requirements": [
+            "Bachelor's or Master's degree in Computer Science, Engineering or related field",
+            "Understand the use of the Android Software Development Kit (SDK)",
+            "Experience with third-party libraries and APIs",
+            "Practical experience in Android development"
+          ]
+        },
+        {
+          "job_title": "Data Analyst",
+          "work_field_scope": "Responsible for collecting, analyzing and interpreting data for decision making.",
+          "skills": [
+            "Mastery of data analysis tools (such as SQL, Python, R, etc)",
+            "Ability to create effective data visualizations",
+            "Identify, analyze, and interpret patterns in complex data sets"
+          ],
+          "requirements": [
+            "Bachelor's degree in Computer Science, Statistics, Mathematics, or related field",
+            "Ability to communicate data findings clearly and effectively",
+            "Experience as a data analyst"
+          ]
+        },
+        {
+          "job_title": "Game Developer",
+          "work_field_scope": "Take care of everything related to creating a game application.",
+          "skills": [
+            "Understanding of game development programming languages such as C++, C#, or Java",
+            "Understand the game development process and be able to design game graphics",
+            "Ability to work and collaborate in cross-disciplinary teams",
+            "Able to identify and solve technical problems during game development"
+          ],
+          "requirements": [
+            "Bachelor's degree in Computer Science, Game Design, or related field",
+            "Skills using game engines such as Unity, Unreal Engine, or other game engines",
+            "Experience in full lifecycle game development"
+          ]
+        },
+        {
+          "job_title": "UI/UX Designer",
+          "work_field_scope": "Designs user interfaces and experiences for software and applications.",
+          "skills": [
+            "UI/UX design tools (e.g., Adobe XD, Sketch)",
+            "User research and usability testing",
+            "Understanding of design principles and trends"
+          ],
+          "requirements": [
+            "Bachelor's degree in Graphic Design, HCI, or related field",
+            "Portfolio showcasing UI/UX design projects"
+          ]
+        }
+      ]
+    },
+
+    {
+      "field_name": "Healthcare",
+      "job_examples": [
+        {
+          "job_title": "Registered Nurse",
+          "work_field_scope": "Provides patient care, administers medications, and coordinates treatment plans.",
+          "skills": [
+            "Nursing degree and licensure",
+            "Compassion and interpersonal skills",
+            "Critical thinking in fast-paced environments"
+          ],
+          "requirements": [
+            "Bachelor's degree in Nursing",
+            "Clinical experience and licensing exam required"
+          ]
+        },
+        {
+          "job_title": "Medical Laboratory Technologist",
+          "work_field_scope": "Performs tests on patient samples to assist in the diagnosis and treatment of diseases.",
+          "skills": [
+            "Bachelor's degree in medical technology",
+            "Attention to detail and precision",
+            "Knowledge of laboratory equipment and procedures"
+          ],
+          "requirements": [
+            "Certification as a Medical Laboratory Technologist",
+            "Clinical laboratory experience"
+          ]
+        },
+        {
+          "job_title": "Health Informatics Specialist",
+          "work_field_scope": "Manages and analyzes healthcare data for improved patient outcomes.",
+          "skills": [
+            "Bachelor's degree in health informatics or related field",
+            "Analytical and problem-solving skills",
+            "Knowledge of healthcare information systems"
+          ],
+          "requirements": [
+            "Relevant certifications (e.g., Certified Health Data Analyst)",
+            "Experience in healthcare data analysis"
+          ]
+        },
+        {
+          "job_title": "Doctor (General Practitioner)",
+          "work_field_scope": "Provides primary healthcare services, diagnoses illnesses, and prescribes treatments.",
+          "skills": [
+            "Medical degree (MD or DO)",
+            "Clinical skills and medical knowledge",
+            "Communication and empathy"
+          ],
+          "requirements": [
+            "Completion of medical school and residency",
+            "Medical licensure"
+          ]
+        },
+        {
+          "job_title": "Physician Assistant",
+          "work_field_scope": "Works under the supervision of a physician, providing healthcare services.",
+          "skills": [
+            "Bachelor's degree and completion of a physician assistant program",
+            "Clinical and diagnostic skills",
+            "Collaborative and communicative"
+          ],
+          "requirements": [
+            "Certification as a Physician Assistant",
+            "Clinical experience"
+          ]
+        },
+        {
+          "job_title": "Physical Therapist",
+          "work_field_scope": "Helps patients recover from injuries and improve physical mobility.",
+          "skills": [
+            "Doctor of Physical Therapy (DPT) degree",
+            "Manual therapy and exercise prescription",
+            "Patient communication and empathy"
+          ],
+          "requirements": [
+            "Doctor of Physical Therapy degree",
+            "Licensure as a physical therapist"
+          ]
+        },
+        {
+          "job_title": "Nutritionist/Dietitian",
+          "work_field_scope": "Provides dietary advice and plans for individuals to promote health.",
+          "skills": [
+            "Bachelor's or Master's degree in Nutrition or Dietetics",
+            "Nutritional assessment and counseling",
+            "Knowledge of dietary principles"
+          ],
+          "requirements": [
+            "Licensure as a Registered Dietitian (RD)",
+            "Experience in nutrition counseling"
+          ]
+        },
+        {
+          "job_title": "Occupational Therapist",
+          "work_field_scope": "Helps individuals with injuries or disabilities to regain daily living skills.",
+          "skills": [
+            "Master's degree in Occupational Therapy",
+            "Activity analysis and therapeutic interventions",
+            "Communication and empathy"
+          ],
+          "requirements": [
+            "Licensure as an Occupational Therapist",
+            "Clinical experience"
+          ]
+        }
+      ]
+    },
+
+    {
+      "field_name": "Finance",
+      "job_examples": [
+        {
+          "job_title": "Financial Analyst",
+          "work_field_scope": "Analyzes financial data to provide investment recommendations.",
+          "skills": [
+            "Analytical and quantitative skills",
+            "Knowledge of financial modeling",
+            "Understanding of economic trends"
+          ],
+          "requirements": [
+            "Bachelor's degree in Finance, Economics, or related field",
+            "Relevant certifications (e.g., CFA) may be required"
+          ]
+        },
+        {
+          "job_title": "Accountant",
+          "work_field_scope": "Prepares and examines financial records to ensure accuracy and compliance.",
+          "skills": [
+            "Attention to detail and organizational skills",
+            "Knowledge of accounting principles and regulations"
+          ],
+          "requirements": [
+            "Bachelor's degree in Accounting or related field",
+            "CPA certification may be required"
+          ]
+        },
+        {
+          "job_title": "Investment Banker",
+          "work_field_scope": "Facilitates financial transactions and advises clients on investments.",
+          "skills": [
+            "Strong analytical and strategic thinking",
+            "Financial modeling and valuation skills",
+            "Excellent communication and negotiation skills"
+          ],
+          "requirements": [
+            "Bachelor's or Master's degree in Finance, Business, or related field",
+            "Relevant experience in investment banking"
+          ]
+        },
+        {
+          "job_title": "Financial Planner",
+          "work_field_scope": "Assists individuals and businesses in creating financial plans for their goals.",
+          "skills": [
+            "Knowledge of financial planning principles",
+            "Communication and interpersonal skills",
+            "Investment and risk management"
+          ],
+          "requirements": [
+            "Bachelor's degree in Finance or related field",
+            "Certifications (e.g., CFP) may be beneficial"
+          ]
+        },
+        {
+          "job_title": "Risk Analyst",
+          "work_field_scope": "Identifies and assesses potential risks to an organization's financial well-being.",
+          "skills": [
+            "Risk assessment and mitigation",
+            "Analytical and problem-solving skills",
+            "Understanding of financial markets"
+          ],
+          "requirements": [
+            "Bachelor's degree in Finance, Economics, or related field",
+            "Relevant certifications (e.g., FRM) may be required"
+          ]
+        },
+        {
+          "job_title": "Treasury Analyst",
+          "work_field_scope": "Manages an organization's financial resources, including cash and investments.",
+          "skills": [
+            "Cash management and forecasting",
+            "Financial analysis and reporting",
+            "Knowledge of treasury operations"
+          ],
+          "requirements": [
+            "Bachelor's degree in Finance or related field",
+            "Relevant experience in treasury functions"
+          ]
+        },
+        {
+          "job_title": "Credit Analyst",
+          "work_field_scope": "Evaluates the creditworthiness of individuals or businesses for loans and credit.",
+          "skills": [
+            "Credit risk assessment",
+            "Financial statement analysis",
+            "Communication and decision-making skills"
+          ],
+          "requirements": [
+            "Bachelor's degree in Finance, Accounting, or related field",
+            "Relevant experience in credit analysis"
+          ]
+        },
+        {
+          "job_title": "Financial Controller",
+          "work_field_scope": "Oversees financial reporting, compliance, and accounting functions.",
+          "skills": [
+            "Financial management and reporting",
+            "Regulatory compliance knowledge",
+            "Leadership and organizational skills"
+          ],
+          "requirements": [
+            "Bachelor's or Master's degree in Finance, Accounting, or related field",
+            "CPA certification and relevant experience"
+          ]
+        },
+        {
+          "job_title": "Bank Teller",
+          "work_field_scope": "Responsible for processing all transactions accurately and efficiently.",
+          "skills": [
+            "Ability to count money quickly and accuracy",
+            "Ability to carry out banking transactions",
+            "Good Communication skills"
+          ],
+          "requirements": [
+            "Bachelor's degree in Finance, Economics, or related field",
+            "Communication skills, and time management"
+          ]
+        },
+        {
+          "job_title": "Insurance Agent",
+          "work_field_scope": "Negotiation insurance to meed customer needs",
+          "skills": [
+            "Ability to develop marketing and promotional strategies",
+            "Good communication skills",
+            "The ability to influence and negotiate"
+          ],
+          "requirements": [
+            "High School and Bachelor's degree in Finance, Economics, or related field.",
+            "Have in-depth knowledge of insurance products"
+          ]
+        },
+        {
+          "job_title": "Internal Auditor",
+          "work_field_scope": "Responsible for ensuring the effectiveness of the organization against applicable regulations.",
+          "skills": [
+            "Ability to analyze data",
+            "Have an Understanding of financial and bookkeeping concepts"
+          ],
+          "requirements": [
+            "Bachelor's degree in Accounting and Finance",
+            "Ability to analyze data and understand using accounting software"
+          ]
+        }
+      ]
+    },
+
+    {
+      "field_name": "Admin/Customer Service",
+      "job_examples": [
+        {
+          "job_title": "Office Manager",
+          "work_field_scope": "Responsible for managing organizational operations to ensure effectiveness and efficiency.",
+          "skills": [
+            "Ability to lead and manage an administrative team",
+            "The ability to manage time"
+          ],
+          "requirements": [
+            "Bachelor's degree in Business or related field",
+            "Ability to handle multiple functions simultaneously and solve problems"
+          ]
+        },
+        {
+          "job_title": "Personal Assistant",
+          "work_field_scope": "Responsible for administrative tasks in an organized and timely manner for the smooth running of the organization.",
+          "skills": [
+            "Able to manage and arrange schedules",
+            "Able to handle personal information"
+          ],
+          "requirements": [
+            "Personal Assistant Certification or Bachelor's degree in Business",
+            "Ability to manage time, tasks and priorities well"
+          ]
+        },
+        {
+          "job_title": "Receptionist/Front Desk Agent",
+          "work_field_scope": "Handle the flow of people through the business and ensure administrative tasks are completed accurately.",
+          "skills": [
+            "Communication skills, both verbal and written",
+            "Able to provide friendly and appropriate service"
+          ],
+          "requirements": [
+            "Minimum high school graduate",
+            "Maintain a clean and professional appearance to create a positive impression"
+          ]
+        },
+        {
+          "job_title": "Customer Service Manager",
+          "work_field_scope": "Responsible for leading the team and ensuring service needs are met.",
+          "skills": [
+            "Ability to lead customer service",
+            "Communication and interaction skills",
+            "Able to understand customer needs"
+          ],
+          "requirements": [
+            "Bachelor's degree in Business or related field",
+            "English proficiency and multitasking",
+            "Ability to apply technology and customer service tools"
+          ]
+        }
+      ]
+    },
+
+
+    {
+      "field_name": "Education",
+      "job_examples": [
+        {
+          "job_title": "Teacher",
+          "work_field_scope": "Educates students in a specific subject or grade level.",
+          "skills": [
+            "Bachelor's degree in Education",
+            "Classroom management skills",
+            "Effective communication and adaptability"
+          ],
+          "requirements": [
+            "Teaching certification",
+            "Student teaching experience"
+          ]
+        },
+        {
+          "job_title": "School Counselor",
+          "work_field_scope": "Provides guidance and support to students.",
+          "skills": [
+            "Master's degree in Counseling or related field",
+            "Empathy and interpersonal skills",
+            "Knowledge of counseling techniques"
+          ],
+          "requirements": [
+            "State licensure as a school counselor",
+            "Relevant counseling experience"
+          ]
+        },
+        {
+          "job_title": "Education Administrator",
+          "work_field_scope": "Manages the operations of educational institutions.",
+          "skills": [
+            "Master's degree in Educational Leadership or Administration",
+            "Leadership and organizational skills",
+            "Knowledge of education policies and regulations"
+          ],
+          "requirements": [
+            "Administrative certification",
+            "Experience in educational leadership"
+          ]
+        }
+      ]
+    },
+
+    {
+      "field_name": "Marketing and Advertising",
+      "job_examples": [
+        {
+          "job_title": "Marketing Manager",
+          "work_field_scope": "Develops marketing strategies and oversees campaigns.",
+          "skills": [
+            "Strategic planning and leadership skills",
+            "Market research and analysis",
+            "Communication and creativity"
+          ],
+          "requirements": [
+            "Bachelor's or Master's degree in Marketing or related field",
+            "Relevant experience in marketing"
+          ]
+        },
+        {
+          "job_title": "Digital Marketing Specialist",
+          "work_field_scope": "Manages online marketing channels and campaigns.",
+          "skills": [
+            "SEO and SEM knowledge",
+            "Social media marketing skills",
+            "Data analysis and digital advertising expertise"
+          ],
+          "requirements": [
+            "Bachelor's degree in Marketing, Digital Marketing, or related field",
+            "Certifications in digital marketing (e.g., Google Ads) may be required"
+          ]
+        },
+        {
+          "job_title": "Advertising Copywriter",
+          "work_field_scope": "Creates persuasive and engaging content for advertisements.",
+          "skills": [
+            "Creative writing and storytelling skills",
+            "Understanding of brand messaging",
+            "Collaboration with design and marketing teams"
+          ],
+          "requirements": [
+            "Bachelor's degree in Advertising, Copywriting, or related field",
+            "Portfolio showcasing copywriting skills"
+          ]
+        }
+      ]
+    },
+
+    {
+      "field_name": "Engineering",
+      "job_examples": [
+        {
+          "job_title": "Civil Engineer",
+          "work_field_scope": "Designs and oversees the construction of infrastructure projects.",
+          "skills": [
+            "Bachelor's degree in Civil Engineering",
+            "Knowledge of engineering principles and materials",
+            "Project management skills"
+          ],
+          "requirements": [
+            "Professional Engineer (PE) license",
+            "Relevant experience in civil engineering"
+          ]
+        },
+        {
+          "job_title": "Electrical Engineer",
+          "work_field_scope": "Designs and tests electrical systems and components.",
+          "skills": [
+            "Bachelor's degree in Electrical Engineering",
+            "Analytical and problem-solving skills",
+            "Knowledge of electrical systems and regulations"
+          ],
+          "requirements": [
+            "Professional Engineer (PE) license",
+            "Experience in electrical engineering"
+          ]
+        },
+        {
+          "job_title": "Software Engineer",
+          "work_field_scope": "Develops software applications and systems.",
+          "skills": [
+            "Proficiency in programming languages",
+            "Software development life cycle knowledge",
+            "Problem-solving and debugging skills"
+          ],
+          "requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "Experience in software development"
+          ]
+        },
+        {
+          "job_title": "Interior Designer",
+          "work_field_scope": "Planning and designing interior spaces to create a comfortable and aesthetic environment.",
+          "skills": [
+            "Perform design projects from concept to completion",
+            "Ability to think creatively and create innovative design solutions",
+            "Ability to draw and sketch designs manually or using software"
+          ],
+          "requirements": [
+            "Bachelor's degree in Interior Design or related field",
+            "Communication, presentation and project management skills",
+            "Mastering AutoCAD, SketchUp, 3D Max, Illustrator or other design programs",
+            "Experience in decorating interior spaces"
+          ]
+        },
+        {
+          "job_title": "Mechanical Engineer",
+          "work_field_scope": "Design, development, production and maintenance of mechanical systems.",
+          "skills": [
+            "Understand the basic principles of mechanical engineering",
+            "Design systems and components that meet needs and requirements",
+            "Identify, formulate and produce effective solutions to problems that arise"
+          ],
+          "requirements": [
+            "Bachelor's degree in Engineering, or related field",
+            "Have practical, internship or field work experience in a relevant industry or company",
+            "Ability to use design software such as AutoCAD, SolidWorks, or other CAD programs"
+          ]
+        },
+        {
+          "job_title": "Architect",
+          "work_field_scope": "Designs buildings and structures, considering both aesthetics and functionality.",
+          "skills": [
+            "Bachelor's or Master's degree in Architecture",
+            "Design and drafting skills",
+            "Knowledge of building codes and regulations"
+          ],
+          "requirements": [
+            "Architectural license",
+            "Relevant experience in architectural design"
+          ]
+        }
+      ]
+    },
+
+    {
+      "field_name": "Environmental Science",
+      "job_examples": [
+        {
+          "job_title": "Environmental Scientist",
+          "work_field_scope": "Studies and analyzes environmental issues.",
+          "skills": [
+            "Bachelor's or Master's degree in Environmental Science",
+            "Research and analytical skills",
+            "Knowledge of environmental regulations"
+          ],
+          "requirements": [
+            "Experience in environmental research",
+            "Knowledge of GIS and environmental modeling"
+          ]
+        },
+        {
+          "job_title": "Conservation Biologist",
+          "work_field_scope": "Works to protect and preserve ecosystems and species.",
+          "skills": [
+            "Biology or ecology degree",
+            "Field research and data collection skills",
+            "Knowledge of conservation principles"
+          ],
+          "requirements": [
+            "Master's degree in Conservation Biology or related field",
+            "Fieldwork experience in conservation projects"
+          ]
+        },
+        {
+          "job_title": "Environmental Engineer",
+          "work_field_scope": "Designs solutions to address environmental challenges.",
+          "skills": [
+            "Bachelor's degree in Environmental Engineering",
+            "Problem-solving and design skills",
+            "Knowledge of environmental laws and regulations"
+          ],
+          "requirements": [
+            "Professional Engineer (PE) license",
+            "Experience in environmental engineering projects"
+          ]
+        }
+      ]
+    },
+
+    {
+      "field_name": "Hospitality",
+      "job_examples": [
+        {
+          "job_title": "Executive Chef",
+          "work_field_scope": "Plan, organize, and manage all aspects of food preparation.",
+          "skills": [
+            "Master cooking techniques and have knowledge of various types of cuisine",
+            "Plan and direct food preparation activities",
+            "Ability to manage budget and kitchen operational costs",
+            "Ability to find and resolve problems efficiently"
+          ],
+          "requirements": [
+            "Bachelor's degree in Culinary Science or related certificate",
+            "Significant work experience in various positions in the kitchen",
+            "Ability to effectively lead and manage a kitchen team"
+          ]
+        },
+        {
+          "job_title": "Maid",
+          "work_field_scope": "Responsible for improving the customer experience by keeping the facility clean and orderly.",
+          "skills": [
+            "Plan and complete cleaning tasks efficiently",
+            "Understand and implement high standards of cleanliness and sanitation",
+            "Handle reasonable guest complaints/requests in a friendly manner"
+          ],
+          "requirements": [
+            "High school graduate",
+            "Skills in determining priorities and time management",
+            "Professionalism along with speed and attention to detail"
+          ]
+        },
+        {
+          "job_title": "Restaurant Manager",
+          "work_field_scope": "Carry out operational and administrative management to achieve restaurant success.",
+          "skills": [
+            "Monitor and manage daily workflow and restaurant operations",
+            "Respond to customer complaints efficiently",
+            "Deliver superior guest services and ensure absolute customer satisfaction"
+          ],
+          "requirements": [
+            "Bachelor's degree in Business Administration or a culinary school diploma",
+            "Strong leadership, motivational and people skills",
+            "Ability to communicate clearly and be able to use English",
+            "Experience as restaurant manager"
+          ]
+        },
+        {
+          "job_title": "Waiter/Waitress",
+          "work_field_scope": "Receive orders, deliver food and drinks to customers.",
+          "skills": [
+            "Provide excellent customer services that promote satisfaction",
+            "Arrange table settings and maintain tables clean and tidy",
+            "Cooperate with all serving and kitchen staff"
+          ],
+          "requirements": [
+            "High school diploma",
+            "Customer serving experience",
+            "Good physical condition"
+          ]
+        }
+      ]
+    },
+
+    {
+      "field_name": "Environmental Science",
+      "job_examples": [
+        {
+          "job_title": "Environmental Scientist",
+          "work_field_scope": "Studies and analyzes environmental issues.",
+          "skills": [
+            "Bachelor's or Master's degree in Environmental Science",
+            "Research and analytical skills",
+            "Knowledge of environmental regulations"
+          ],
+          "requirements": [
+            "Experience in environmental research",
+            "Knowledge of GIS and environmental modeling"
+          ]
+        },
+        {
+          "job_title": "Conservation Biologist",
+          "work_field_scope": "Works to protect and preserve ecosystems and species.",
+          "skills": [
+            "Biology or ecology degree",
+            "Field research and data collection skills",
+            "Knowledge of conservation principles"
+          ],
+          "requirements": [
+            "Master's degree in Conservation Biology or related field",
+            "Fieldwork experience in conservation projects"
+          ]
+        },
+        {
+          "job_title": "Environmental Engineer",
+          "work_field_scope": "Designs solutions to address environmental challenges.",
+          "skills": [
+            "Bachelor's degree in Environmental Engineering",
+            "Problem-solving and design skills",
+            "Knowledge of environmental laws and regulations"
+          ],
+          "requirements": [
+            "Professional Engineer (PE) license",
+            "Experience in environmental engineering projects"
+          ]
+        }
+      ]
+    },
+
+    {
+      "field_name": "Science",
+      "job_examples": [
+        {
+          "job_title": "Research Scientist (Chemistry)",
+          "work_field_scope": "Conducts experiments and research in the field of chemistry.",
+          "skills": [
+            "Laboratory techniques",
+            "Data analysis and interpretation",
+            "Knowledge of chemical principles"
+          ],
+          "requirements": [
+            "Ph.D. in Chemistry or related field",
+            "Research experience in a laboratory setting"
+          ]
+        },
+        {
+          "job_title": "Biomedical Researcher",
+          "work_field_scope": "Investigates biological processes and conducts research in biomedical sciences.",
+          "skills": [
+            "Cell culture and molecular biology techniques",
+            "Data collection and analysis",
+            "Knowledge of human biology and diseases"
+          ],
+          "requirements": [
+            "Ph.D. in Biomedical Sciences or related field",
+            "Experience in biomedical research"
+          ]
+        },
+        {
+          "job_title": "Astronomer",
+          "work_field_scope": "Studies celestial bodies and phenomena in the universe.",
+          "skills": [
+            "Observational and analytical skills",
+            "Knowledge of astrophysics",
+            "Data interpretation and modeling"
+          ],
+          "requirements": [
+            "Ph.D. in Astronomy or related field",
+            "Observational and research experience"
+          ]
+        },
+        {
+          "job_title": "Neuroscientist",
+          "work_field_scope": "Studies the structure and function of the nervous system.",
+          "skills": [
+            "Neuroimaging techniques",
+            "Data analysis and interpretation",
+            "Understanding of brain anatomy and physiology"
+          ],
+          "requirements": [
+            "Ph.D. in Neuroscience or related field",
+            "Experience in neuroscience research"
+          ]
+        },
+        {
+          "job_title": "Geologist",
+          "work_field_scope": "Studies the Earth's structure, composition, and processes.",
+          "skills": [
+            "Fieldwork and sample collection",
+            "Geological mapping and analysis",
+            "Knowledge of Earth sciences"
+          ],
+          "requirements": [
+            "Bachelor's or Master's degree in Geology",
+            "Fieldwork experience and research background"
+          ]
+        },
+        {
+          "job_title": "Physics Researcher",
+          "work_field_scope": "Conducts experiments and research in the field of physics.",
+          "skills": [
+            "Experimental physics techniques",
+            "Data analysis and modeling",
+            "Knowledge of physical principles"
+          ],
+          "requirements": [
+            "Ph.D. in Physics or related field",
+            "Research experience in physics"
+          ]
+        },
+        {
+          "job_title": "Microbiologist",
+          "work_field_scope": "Studies microorganisms and their interactions with the environment.",
+          "skills": [
+            "Microbiological techniques",
+            "Laboratory analysis",
+            "Knowledge of microbiology"
+          ],
+          "requirements": [
+            "Bachelor's or Master's degree in Microbiology",
+            "Research experience in microbiology"
+          ]
+        }
+      ]
+    },
+
+    {
+      "field_name": "Law",
+      "job_examples": [
+        {
+          "job_title": "Lawyer",
+          "work_field_scope": "Provides legal advice, prepares legal documents, and represents clients in court.",
+          "skills": [
+            "Juris Doctor (JD) degree",
+            "Legal research and writing skills",
+            "Analytical and critical thinking"
+          ],
+          "requirements": [
+            "Law degree and bar admission",
+            "Experience in legal practice"
+          ]
+        },
+        {
+          "job_title": "Legal Analyst",
+          "work_field_scope": "Analyzes legal documents and provides research support.",
+          "skills": [
+            "Bachelor's degree in Law or related field",
+            "Legal research and analysis",
+            "Strong attention to detail"
+          ],
+          "requirements": [
+            "Legal research experience",
+            "Analytical skills in legal contexts"
+          ]
+        },
+        {
+          "job_title": "Ministry Expert Staff",
+          "work_field_scope": "Provides expertise and advice to the ministry on legal matters.",
+          "skills": [
+            "Advanced knowledge of legal regulations",
+            "Policy analysis and development",
+            "Communication and advisory skills"
+          ],
+          "requirements": [
+            "Advanced degree in Law or related field",
+            "Experience in legal advisory roles"
+          ]
+        },
+        {
+          "job_title": "Legal Counsel",
+          "work_field_scope": "Provides legal advice to organizations and ensures legal compliance.",
+          "skills": [
+            "Juris Doctor (JD) degree",
+            "Corporate law knowledge",
+            "Contract drafting and negotiation skills"
+          ],
+          "requirements": [
+            "Law degree and relevant legal experience",
+            "Experience in corporate or business law"
+          ]
+        },
+        {
+          "job_title": "Legal Advisor",
+          "work_field_scope": "Offers legal guidance and support to individuals or organizations.",
+          "skills": [
+            "Bachelor's or Juris Doctor (JD) degree",
+            "Legal research and analysis",
+            "Communication and problem-solving skills"
+          ],
+          "requirements": [
+            "Law degree and relevant legal experience",
+            "Effective communication skills"
+          ]
+        },
+        {
+          "job_title": "Attorney",
+          "work_field_scope": "Represents clients in legal matters, prepares legal documents, and provides legal advice.",
+          "skills": [
+            "Juris Doctor (JD) degree",
+            "Litigation and legal advocacy skills",
+            "Legal research and case strategy"
+          ],
+          "requirements": [
+            "Law degree and bar admission",
+            "Experience in legal practice"
+          ]
+        },
+        {
+          "job_title": "Notary Public",
+          "work_field_scope": "Officially witnesses and certifies legal documents and signatures.",
+          "skills": [
+            "Notarial knowledge and training",
+            "Attention to detail",
+            "Integrity and impartiality"
+          ],
+          "requirements": [
+            "Notary public commission",
+            "Knowledge of notarial laws and procedures"
+          ]
+        }
+      ]
+    },
+
+    {
+      "field_name": "Human Resources (HR)",
+      "job_examples": [
+        {
+          "job_title": "HR Manager",
+          "work_field_scope": "Oversees HR functions, including recruitment, training, and employee relations.",
+          "skills": [
+            "Leadership and organizational skills",
+            "Knowledge of labor laws and regulations",
+            "Effective communication and interpersonal skills"
+          ],
+          "requirements": [
+            "Master's degree in HR, Business, or related field",
+            "HR certification (e.g., SHRM-SCP) may be required"
+          ]
+        },
+        {
+          "job_title": "Recruitment Specialist",
+          "work_field_scope": "Sources and recruits candidates for job openings.",
+          "skills": [
+            "Talent sourcing and interviewing skills",
+            "Understanding of recruitment strategies",
+            "Communication and negotiation skills"
+          ],
+          "requirements": [
+            "Bachelor's degree in HR, Psychology, or related field",
+            "Experience in recruitment"
+          ]
+        },
+        {
+          "job_title": "Employee Relations Specialist",
+          "work_field_scope": "Handles workplace conflicts and employee relations.",
+          "skills": [
+            "Conflict resolution and mediation skills",
+            "Knowledge of HR policies and procedures",
+            "Empathy and interpersonal skills"
+          ],
+          "requirements": [
+            "Bachelor's degree in HR, Psychology, or related field",
+            "Experience in employee relations"
+          ]
+        },
+        {
+          "job_title": "Employee Relations Specialist",
+          "work_field_scope": "Handles workplace conflicts and employee relations.",
+          "skills": [
+            "Conflict resolution and mediation skills",
+            "Knowledge of HR policies and procedures",
+            "Empathy and interpersonal skills"
+          ],
+          "requirements": [
+            "Bachelor's degree in HR, Psychology, or related field",
+            "Experience in employee relations"
+          ]
+        },
+        {
+          "job_title": "Training and Development Manager",
+          "work_field_scope": "Plans and oversees training programs for employees' skill development.",
+          "skills": [
+            "Training program design and implementation",
+            "Knowledge of adult learning principles",
+            "Communication and leadership skills"
+          ],
+          "requirements": [
+            "Bachelor's or Master's degree in HR, Education, or related field",
+            "Relevant experience in training and development"
+          ]
+        },
+        {
+          "job_title": "Compensation and Benefits Analyst",
+          "work_field_scope": "Analyzes and administers compensation and benefits programs.",
+          "skills": [
+            "Compensation analysis and benchmarking",
+            "Benefits administration",
+            "Knowledge of HRIS systems"
+          ],
+          "requirements": [
+            "Bachelor's degree in HR, Business, or related field",
+            "Certifications (e.g., CCP, CBP) may be beneficial"
+          ]
+        },
+        {
+          "job_title": "HR Generalist",
+          "work_field_scope": "Handles a variety of HR functions, including recruitment, benefits, and employee relations.",
+          "skills": [
+            "Broad HR knowledge",
+            "Problem-solving and decision-making skills",
+            "Communication and interpersonal skills"
+          ],
+          "requirements": [
+            "Bachelor's degree in HR, Business, or related field",
+            "Relevant HR experience"
+          ]
+        },
+        {
+          "job_title": "Diversity and Inclusion Specialist",
+          "work_field_scope": "Promotes diversity and inclusion within the organization.",
+          "skills": [
+            "Understanding of diversity and inclusion concepts",
+            "Program development and implementation",
+            "Communication and cultural competence"
+          ],
+          "requirements": [
+            "Bachelor's degree in HR, Diversity Studies, or related field",
+            "Relevant experience in diversity and inclusion initiatives"
+          ]
+        },
+        {
+          "job_title": "HR Consultant",
+          "work_field_scope": "Provides HR advice and solutions to organizations on a consultancy basis.",
+          "skills": [
+            "Expertise in HR laws and regulations",
+            "Consulting and problem-solving skills",
+            "Communication and negotiation skills"
+          ],
+          "requirements": [
+            "Bachelor's or Master's degree in HR or related field",
+            "Relevant consulting experience"
+          ]
+        }
+      ]
+    }
+  ]
+}
